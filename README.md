@@ -14,7 +14,7 @@ experience working with real-world data.
 COURSE OBJECTIVES: 
 Upon completion of the course, students should be able to
 - Model and forecast time series data.
-- Understand different data types and identify the correct model for data analysis.
+- Understand different data types and identify the correct model for data analysis in R.
 - Deal with messy data that have missingness or censored observations.
 - Feel comfortable with analyzing real-world data sets and providing business insights.
 
