@@ -1,0 +1,24 @@
+{
+    "id": "F13809F7",
+    "path": "~/predictive_analytics/lessons/Chapter_8.R",
+    "project_path": "lessons/Chapter_8.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1681510323341.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "cursorPosition": "17,2",
+        "scrollLine": "3"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1681945543,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1681945543,
+    "read_only": false,
+    "read_only_alternatives": []
+}
