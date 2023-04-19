@@ -18,7 +18,7 @@
     __1. Results__:
     
     
- ![](documents/fig_1R.png)
+ ![](Final Project/Stock Forecasting/ORG_DETREND//fig_1R.png)
 
 ### Estimate risk measures​
 
