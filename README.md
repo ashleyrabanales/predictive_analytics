@@ -17,11 +17,17 @@
 
     __1. Results__:
     
-    <img width="323" alt="ACF_GOOGLE_ORG" src="https://user-images.githubusercontent.com/85587898/233220694-04abeb9a-a00a-484b-a098-5ad49e94d63c.p<img width="278" alt="ACF_TELSE_ORG" src="https://user-images.githubusercontent.com/85587898/233220830-59349f6b-5b8f-467e-8783-8536b14a331b.png">
-ng"> <img width="308" alt="ACF_JPM_ORG" src="https://user-images.githubusercontent.com/85587898/233220728-8710ba84-79fd-40a7-81ba-31aa0861cd79.png"> 
+ ### Orginal ACF plots and Time Series
+    
+<img width="323" alt="ACF_GOOGLE_ORG" src="https://user-images.githubusercontent.com/85587898/233221077-69d01dc8-f00f-4b91-bedb-2e9bb49d8334.png"> <img width="308" alt="ACF_JPM_ORG" src="https://user-images.githubusercontent.com/85587898/233221094-e749567f-6e4d-42cd-961c-04f931b8ae12.png"> <img width="278" alt="ACF_TELSE_ORG" src="https://user-images.githubusercontent.com/85587898/233221110-41112eb7-80f4-4483-bede-a0728422d7a6.png">
 
 
- ![](Final Project/Stock Forecasting/ORG_DETREND//ACF_GOOGLE_ORG.png)
+
+<img width="324" alt="TS_GOOGLE_ORG" src="https://user-images.githubusercontent.com/85587898/233221229-1dca305b-eb93-404e-a165-454bdca681e3.png"> <img width="276" alt="TS_JPM_ORG" src="https://user-images.githubusercontent.com/85587898/233221262-d9238b01-1e50-4c75-89d9-d995eb288c49.png"> <img width="278" alt="TS_TELSA_ORG" src="https://user-images.githubusercontent.com/85587898/233221274-fa75422e-a17b-4733-9b89-0303660985b2.png">
+
+
+
+
 
 ### Estimate risk measures​
 
