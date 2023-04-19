@@ -1,4 +1,4 @@
-# Predictive Analytics Class - Final
+# Stock Price Forecasting and Risk Measurements 
 
 ## Problem Statement & Objective: 
 - Background: Investors are always looking for ways to maximize their returns while minimizing their risks. Accurate prediction of future stock prices and estimation of risk measures are crucial for making informed investment decisions. ​
