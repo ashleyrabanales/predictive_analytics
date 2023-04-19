@@ -15,12 +15,22 @@
 - The combination of two models can improve the accuracy of stock price predictions. ​
 - Evaluate stock price predictions by MSE, MAE and RMSE.​
 
+    __1. Results__:
+    
+    
+ ![](documents/fig_1R.png)
+
 ### Estimate risk measures​
 
 - Calculate monthly log return and fit to AR/GARCH model, then predict one-step-ahead log return.​
 - Utilize the return distribution to estimate risk measures like VaR. (estimates the maximum amount of loss that could be incurred on a stock investment within a given confidence interval) ​
 
 
+    __2. Results__:
+
+
+
+![](documents/fig_1R.png)
 
 
 
