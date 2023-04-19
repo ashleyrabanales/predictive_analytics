@@ -17,8 +17,11 @@
 
     __1. Results__:
     
-    
- ![](Final Project/Stock Forecasting/ORG_DETREND//fig_1R.png)
+    <img width="323" alt="ACF_GOOGLE_ORG" src="https://user-images.githubusercontent.com/85587898/233220694-04abeb9a-a00a-484b-a098-5ad49e94d63c.p<img width="278" alt="ACF_TELSE_ORG" src="https://user-images.githubusercontent.com/85587898/233220830-59349f6b-5b8f-467e-8783-8536b14a331b.png">
+ng"> <img width="308" alt="ACF_JPM_ORG" src="https://user-images.githubusercontent.com/85587898/233220728-8710ba84-79fd-40a7-81ba-31aa0861cd79.png"> 
+
+
+ ![](Final Project/Stock Forecasting/ORG_DETREND//ACF_GOOGLE_ORG.png)
 
 ### Estimate risk measures​
 
