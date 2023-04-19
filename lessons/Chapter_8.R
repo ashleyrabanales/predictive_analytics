@@ -6,6 +6,7 @@ data("RecreationDemand")
 
 ?RecreationDemand
 
+
 hist(RecreationDemand$trips)
 table(RecreationDemand$trips)
 
